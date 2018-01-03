@@ -3,12 +3,12 @@
 We analyze and mine complex, heterogenous data to explore, characterize, and understand the underlying states / processes. Our approaches are based on statistical machine learning and data mining that work on a variety of real-life applications with a focus on healthcare applications.
 
 ## Students
-Graduates
+#### Graduates
 * [Mani Sotoodeh](http://www.mathcs.emory.edu/~msotood/) (Spring 2017 - Present)
 * [Huan He](https://github.com/hehuannb) (Spring 2017 - Present)
 * Jing Ma (Spring 2017 - Present)
 
-Undergraduates
+#### Undergraduates
 * [Junyuan (Joe) Ke](http://junyuanke.com/) (Fall 2016 - Present)
 * Tim Davidson (Spring 2017 - Present)
 * Chenxiao Wang (Summer 2017 - Present)
@@ -16,7 +16,7 @@ Undergraduates
 * Colin Jiang (Fall 2017 - Present)
 * [Weixing (Trevor) Tang](http://trevort.info/) (Fall 2017 - Present)
 
-## Alumni
+#### Alumni
 * [Jiayu Yao](https://www.seas.harvard.edu/directory/jiy328) (Spring 2016 - Spring 2017): Harvard Ph.D. Student
 * [Zining Wang](http://wangzining.github.io/) (Summer 2016 - Summer 2017): UCSD Master's Student
 
