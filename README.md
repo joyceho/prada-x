@@ -2,7 +2,7 @@
 
 We analyze and mine complex, heterogenous data to explore, characterize, and understand the underlying states / processes. Our approaches are based on statistical machine learning and data mining that work on a variety of real-life applications with a focus on healthcare applications.
 
-We are always looking for motivated and hard-working students (graduate and undergraduate students) to do research with us. If you are interested in joining our lab and are already at Emory, send an e-mail titled "More Data More Fun" with your CV, unofficial transcript, and your particular research interest to Joyce Ho. Note that we will only consider those who have taken either Data Structure & Algorithms (CS323) or Machine Learning (CS534). If you are not at Emory yet, please apply to the CSI graduate program first.
+We are always looking for motivated and hard-working students (graduate and undergraduate students) to do research with us. _If you are at Emory and interested in joining our lab, send an e-mail titled "More Data More Fun" with your CV, unofficial transcript, and your particular research interest to Joyce Ho_. Note that we will only consider those who have taken either Data Structure & Algorithms (CS323) or Machine Learning (CS534). If you are not at Emory yet, please apply to the CSI graduate program first.
 
 ## Students
 #### Graduates
