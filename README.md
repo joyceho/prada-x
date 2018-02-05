@@ -7,7 +7,7 @@ We are always looking for motivated and hard-working students (graduate and unde
 ## Students
 #### Graduates
 * [Mani Sotoodeh](http://www.mathcs.emory.edu/~msotood/) (Spring 2017 - Present)
-* [Huan He](https://github.com/hehuannb) (Spring 2017 - Present)
+* [Huan He](https://hehuannb.github.io) (Spring 2017 - Present)
 * Jing Ma (Spring 2017 - Present)
 
 #### Undergraduates
