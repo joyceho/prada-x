@@ -9,18 +9,20 @@ We are always looking for motivated and hard-working students (graduate and unde
 * [Mani Sotoodeh](http://www.mathcs.emory.edu/~msotood/) (Spring 2017 - Present)
 * [Huan He](https://hehuannb.github.io) (Spring 2017 - Present)
 * [Jing Ma](https://jma78.github.io/) (Spring 2017 - Present)
+* Zelalem Gero (Summer 2017 - Present)
+* Eric Lee (Spring 2018 - Present)
 
 #### Undergraduates
-* [Junyuan (Joe) Ke](http://junyuanke.com/) (Fall 2016 - Present)
 * Tim Davidson (Spring 2017 - Present)
 * Chenxiao Wang (Summer 2017 - Present)
 * Jian Chen (Summer 2017 - Present)
 * Colin Jiang (Fall 2017 - Present)
-* [Weixing (Trevor) Tang](http://trevort.info/) (Fall 2017 - Present)
 
 #### Alumni
-* [Jiayu Yao](https://www.seas.harvard.edu/directory/jiy328) (Spring 2016 - Spring 2017): Harvard Ph.D. Student
-* [Zining Wang](http://wangzining.github.io/) (Summer 2016 - Summer 2017): UCSD Master's Student
+* [Junyuan (Joe) Ke](http://junyuanke.com/) (Fall 2016 - Spring 2018): PhD student, UT Austin
+* [Weixing (Trevor) Tang](http://trevort.info/) (Fall 2017 - Spring 2018): Master's student, Georgia Tech
+* [Zining Wang](http://wangzining.github.io/) (Summer 2016 - Summer 2017): Master's student, UC San Diego
+* [Jiayu Yao](https://www.seas.harvard.edu/directory/jiy328) (Spring 2016 - Spring 2017): PhD student, Harvard
 
 
 ## Undergraduate Kaggle / DrivenData Competition Notebooks:
